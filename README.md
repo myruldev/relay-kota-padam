@@ -1,10 +1,10 @@
 # Relay: Kota Padam
 
-[![make.fun](https://make.fun/badge/best-game-01.svg)](https://make.fun)
-[![make.fun rank](https://make.fun/badge/best-game-01/myruldev/relay-kota-padam/rank.svg)](https://make.fun)
-[![make.fun reward](https://make.fun/badge/best-game-01/myruldev/relay-kota-padam/reward.svg)](https://make.fun)
+[![make.fun](https://make.fun/badge/best-game-01.svg)](https://make.fun/r/kc2xf2b1)
+[![make.fun rank](https://make.fun/badge/best-game-01/myruldev/relay-kota-padam/rank.svg)](https://make.fun/r/kc2xf2b1)
+[![make.fun reward](https://make.fun/badge/best-game-01/myruldev/relay-kota-padam/reward.svg)](https://make.fun/r/kc2xf2b1)
 
-A complete, original puzzle game for the [make.fun Best Game bounty](https://make.fun/bounty/best-game-01). The city is blacked out. One power plant is still alive — and you are the technician keeping its lines connected.
+A complete, original puzzle game for the [make.fun Best Game bounty](https://make.fun/bounty/best-game-01?ref=kc2xf2b1). The city is blacked out. One power plant is still alive — and you are the technician keeping its lines connected.
 
 ## How to play
 
